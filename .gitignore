@@ -1,0 +1,6 @@
+*.log
+*.key
+*.pem
+*.crt
+passwords.txt
+credenciales.txt
